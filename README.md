@@ -8,7 +8,7 @@
 - 🔭 I’m currently interested in **Artificial Intelligence, Machine Learning, Data Science, and Data Analysis**
 - 🌱 I’m currently learning and exploring **Deep Learning, Gen AI, Agentic AI, AWS, and building APIs**
 - 💻 My primary tech stack includes **Python, Java, HTML, CSS, JavaScript, and SQL**
-- 📫 How to reach me: **[Add your Email or LinkedIn here]**
+- 📫 How to reach me: **[pandey.raghav1105@gmail.com](mailto:pandey.raghav1105@gmail.com)** or on **[LinkedIn](https://www.linkedin.com/in/raghav-pandey11)**
 
 <br/>
 
@@ -31,15 +31,9 @@
 
 <br/>
 
-### 📊 GitHub Stats:
-<p align="center">
-<a href="https://github.com/raghavxd11">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raghavxd11&show_icons=true&theme=radical&hide_border=true" alt="raghavxd11's GitHub stats" />
-</a>
-<a href="https://github.com/raghavxd11">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavxd11&layout=compact&theme=radical&hide_border=true" alt="raghavxd11's Top Languages" />
-</a>
-</p>
+
 
 ---
-<p align="center"><i>Take a look at my repositories and let's get in touch!</i></p>
+<p align="center">
+  <i>Always open to collaborating on interesting projects or talking about AI and Data Science. Let's connect! 🚀</i>
+</p>
