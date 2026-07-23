@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raghav (@raghavxd11)</h1>
 <h3 align="center">An undergraduate student from SRMIST exploring AI, ML, and Data Science</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raghavxd11&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+
 
 <br/>
 
